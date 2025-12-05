@@ -1,2 +1,2 @@
-# visiumflow
-Workflow for Visium Spatial Transcriptomics datasets
+# Workflow for Visium Spatial Transcriptomics
+
