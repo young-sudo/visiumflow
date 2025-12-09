@@ -136,22 +136,22 @@ For this analysis, we used `Scanpy`'s correlation distance metric, the clusterin
 ## Cell annotations
 
 <p style="margin-top: 15px; margin-bottom: 15px;" align="center">
-<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample1_clust.png" alt="10x" width=150>
-<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample2_clust.png" alt="10x" width=150>
+<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample1_clust.png" alt="10x" width=200>
+<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample2_clust.png" alt="10x" width=200>
 <br>
-<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample3_clust.png" alt="10x" width=150>
-<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample4_clust.png" alt="10x" width=150>
+<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample3_clust.png" alt="10x" width=200>
+<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample4_clust.png" alt="10x" width=200>
 <br>
 <small>Sample tissues colored by cell clusters</small>
 </p>
 
 
 <p style="margin-top: 15px; margin-bottom: 15px;" align="center">
-<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample1_anno.png" alt="10x" width=150>
-<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample2_anno.png" alt="10x" width=150>
+<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample1_anno.png" alt="10x" width=200>
+<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample2_anno.png" alt="10x" width=200>
 <br>
-<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample3_anno.png" alt="10x" width=150>
-<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample4_anno.png" alt="10x" width=150>
+<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample3_anno.png" alt="10x" width=200>
+<img src="https://raw.githubusercontent.com/young-sudo/spatialflow/main/img/sample4_anno.png" alt="10x" width=200>
 <br>
 <small>Sample tissues colored by cell annotations</small>
 </p>
