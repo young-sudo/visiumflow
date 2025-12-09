@@ -17,6 +17,8 @@
 
 This project implements the <b>Visium HD Multi-sample Analysis</b> workflow from 10x Genomics, based on their [Tutorial](https://www.10xgenomics.com/analysis-guides/tutorial-visium-hd-multi-sample-python-colab) and [Colab Notebook](https://colab.research.google.com/github/10XGenomics/analysis_guides/blob/main/Visium_HD_multi_sample_comparison_python.ipynb#scrollTo=2WU0zKjjCKEI), transformed into a reproducible workflow that can be executed across different environments.
 
+<b>Project under active development</b>
+
 # Usage
 
 ## Clone repository
@@ -55,5 +57,4 @@ Available profiles:
 - `docker` - with Docker
 - `singularity` - with Singularity/Apptainer
 - `slurm` - with slurm on HPC
-
 
