@@ -67,7 +67,7 @@ def qc():
     )
     axes[2].set_title("Mitochondrial Genes by Sample")
 
-    # Tight layout and save
+    # save
     plt.tight_layout()
     plt.savefig("figures/qc.png", dpi=300, bbox_inches="tight")
     plt.close()
