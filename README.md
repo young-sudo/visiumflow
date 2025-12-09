@@ -37,8 +37,6 @@ If you are working with your own data, for each dataset, the `outs` directory wi
 
 The data was originally processed using `spaceranger count` v3.0.0. However, to generate the Space Ranger cell segmentation outputs used in this guide, the public colon cancer and normal adjacent tissue datasets were reprocessed using `spaceranger count` v4.0.1.
 
-<b>Project under active development</b>
-
 # Usage
 
 ## Clone repository
