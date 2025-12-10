@@ -45,6 +45,7 @@ def prepare_data():
     del concatenated_sdata,sdatas,visium_hd_zarr_paths, key, path
     gc.collect()
 
+def read_data():
     concatenated_sdata = spd.read_zarr("concatenated_sdata")
 
     print("---------------------------------")

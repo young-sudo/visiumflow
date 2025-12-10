@@ -8,7 +8,8 @@ import numpy as np
 import gc
 
 def qc():
-    concatenated_sdata = utils.prepare_data()
+    utils.prepare_data()
+    concatenated_sdata = utils.read_data()
 
     adata = concatenated_sdata["segmentation_counts"]
     # we link the AnnData Table in the SpatialData object
