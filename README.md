@@ -84,6 +84,14 @@ nextflow run main.nf --help
 
 # Methods
 
+In order to download the same dataset as the one used in this analysis run:
+
+```bash
+!wget  https://cf.10xgenomics.com/supp/spatial-exp/analysis-workshop/multisample_raw_data.tar.gz
+!tar xvzf multisample_raw_data.tar.gz
+!rm multisample_raw_data.tar.gz
+```
+
 ## The SpatialData Object and Its Components
 
 <p style="margin-top: 10px; margin-bottom: 10px;" align="center">
